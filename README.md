@@ -23,4 +23,23 @@ to be continue...
 # Running...
 to be continue...
 
+## Citation
+
+If you use this work in your research, please cite it as follows:
+
+**APA Format**  
+Author, A. (Year). *Title of the Project*. GitHub repository. URL: https://github.com/username/repository
+
+**BibTeX**  
+```latex
+@misc{YourProjectKey,
+  author = {Author, A. and Collaborator, B.},
+  title  = {Title of the Project},
+  year   = {2023},
+  url    = {https://github.com/username/repository},
+  note   = {GitHub repository}
+}
+
+
+
 
