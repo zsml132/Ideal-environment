@@ -10,7 +10,7 @@ Lipreading is a type of human-computer interaction based on visual information. 
 
 ICSLR. The dataset contains 656 sentences, with the length ranging from 2 to 8 Chinese characters. It covers 732 Chinese characters and 496 ”pinyin” combinations. The videos were recorded from the front and included 11 women 280 and 16 men. All of the subjects spoke Mandarin without moving their heads, and the light is kept the same during the recording. The video storage format is MP4, the resolution is 960×540, the frame rate is 25fps, and the audio sampling frequency is 48kHz. A total of 17712 videos were obtained. 
 
-Download ICSLR from: [baidudrive](https://pan.baidu.com/s/1c7EL0D3XYuPDOKiW-ye8vQ?pwd=s4xa)
+Download ICSLR from: [BaiduDrive](https://pan.baidu.com/s/1c7EL0D3XYuPDOKiW-ye8vQ?pwd=s4xa)
 
 Decompress the downloaded datasets into '/data'.
 
