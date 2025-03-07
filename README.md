@@ -3,7 +3,7 @@
 Lipreading is a type of human-computer interaction based on visual information. From the perspective of pronunciation principle, lip is only one of the vocal tract organs, and it is difficult to express the complete pronunciation process. It is very challenging to recognize speech contents solely through lip movements. 
 
 
-<img src="https://github.com/zsml132/Ideal_environment/edit/main/model.png" width="1080px">
+<img src="https://github.com/zsml132/Ideal_environment/blob/main/model.png" width="1080px">
 
 
 # Dataset
