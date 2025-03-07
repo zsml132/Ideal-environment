@@ -27,19 +27,25 @@ to be continue...
 
 If you use this work in your research, please cite it as follows:
 
-**APA Format**  
-Author, A. (Year). *Title of the Project*. GitHub repository. URL: https://github.com/username/repository
-
 **BibTeX**  
 ```latex
-@misc{YourProjectKey,
-  author = {Author, A. and Collaborator, B.},
-  title  = {Title of the Project},
-  year   = {2023},
-  url    = {https://github.com/username/repository},
-  note   = {GitHub repository}
+@article{sun2023malip,
+  title={MALip: modal amplification lipreading based on reconstructed audio features},
+  author={Sun, Baosheng and Xie, Dongliang and Shi, Haoze},
+  journal={Signal Processing: Image Communication},
+  volume={117},
+  pages={117002},
+  year={2023},
+  publisher={Elsevier}
 }
-
+@inproceedings{sun2022lipreading,
+  title={A Lipreading Model Based on Fine-Grained Global Synergy of Lip Movement},
+  author={Sun, Baosheng and Xie, Dongliang and Luo, Dawei and Yin, Xiaojie},
+  booktitle={2022 IEEE 34th International Conference on Tools with Artificial Intelligence (ICTAI)},
+  pages={848--854},
+  year={2022},
+  organization={IEEE}
+}
 
 
 
