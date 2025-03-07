@@ -27,7 +27,6 @@ to be continue...
 
 If you use this work in your research, please cite it as follows:
 
-**BibTeX**  
 ```latex
 @article{sun2023malip,
   title={MALip: modal amplification lipreading based on reconstructed audio features},
